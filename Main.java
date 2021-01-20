@@ -1,6 +1,6 @@
 package eu.senla.task1;
 
-    public class Main {           // static нужен чтобы мы могли использовать в методе Main в методе Main
+    public class Main {           // static нужен чтобы мы могли использовать в методе Main в методе Main in metode Main
     static boolean a; //хранит значение true или false
     static byte b;   //хранит целое число от -128 до 127 и занимает 1 байт
     static char c;  //хранит одиночный символ в кодировке UTF-16 и занимает 2 байта, диапазон значений от 0 до 65535

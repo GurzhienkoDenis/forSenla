@@ -23,7 +23,7 @@ public class Values {
 
     }
 
-    public boolean isA(){ // При своействе типа boolean префикс имени геттера может быть get или is
+    public boolean isA(){ // При своействе типа boolean префикс имени геттера может быть get или is is
         return aBool;
     }
 
